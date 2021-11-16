@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color:#6a807f
+    
+}
+#content{
+ background-color:#bdb7a6;
+ border: 1px solid black; 
+ margin: 0px 430px ;
+ padding: 0px 10px;
+ 
+}
+
+button{
+    margin-left: 355px;
+    padding: 2px;
+}
+#main{
+    background-image: url(./pexels-pixabay-256520.jpg);
+    margin: 20px 20px;
+}
+p::first-letter{
+    font-size: larger;
+    color: black;
+    font-size: 45px;
+}
+h1:hover{
+    color: rgb(47, 27, 226);
+    background-color:#fcf7fa ;
+}
+button:hover{
+    background-color: #888fba;
+    color: crimson;
+}
+#content:hover{
+    background-color: azure
+}
+
+
